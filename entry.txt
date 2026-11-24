@@ -1,0 +1,1 @@
+I asked the server if it was ready, it said yes, the load balancer believed it, and now the checkout page is a 404 with excellent uptime.
